@@ -76,7 +76,7 @@
             }
         }
     });
-    $( ".copyright" ).remove();
+    $( ".container" ).remove();
     
 })(jQuery);
 
